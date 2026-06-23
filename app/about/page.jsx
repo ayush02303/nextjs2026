@@ -3,11 +3,9 @@ import React from 'react'
 const page = () => {
   return (
     <div>
-      <h1>Hello from Home</h1>
-      
+      <p>Hello from About</p>
     </div>
   )
 }
 
 export default page
-
