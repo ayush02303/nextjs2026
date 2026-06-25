@@ -6,6 +6,7 @@ const Navigation = () => {
    <header>
     <div>
         <nav>
+            <p>List</p>
             <ul>
                 <li>
                     <Link href="/">Home</Link>
