@@ -7,6 +7,7 @@ const Navigation = () => {
     <div>
         <nav>
             <p>List</p>
+            <p>Routing</p>
             <ul>
                 <li>
                     <Link href="/">Home</Link>
