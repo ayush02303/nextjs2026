@@ -8,7 +8,7 @@ const Navigation = () => {
         <nav>
             <p>List</p>
             <p>Routing</p>
-            <p>Routing</p>
+            <p>Routing again</p>
             <ul>
                 <li>
                     <Link href="/">Home</Link>
