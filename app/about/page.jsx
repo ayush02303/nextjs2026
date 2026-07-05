@@ -6,7 +6,7 @@ import {Roboto} from "next/font/google"
 const page = () => {
   return (
     <div>
-      <p className='hello'>Hello from About to begin too</p>
+      <p className='hello'>Hello from About to begin too with a message</p>
 
       <Image src={"/kitty.jpeg"} width={500} height={500} alt='sample image'/>
     </div>
