@@ -3,8 +3,8 @@ import {Roboto} from "next/font/google";
 import "./globals.css";
 import Navigation from "./Navigation";
 
-Roboto({
-  
+const roboto = Roboto({
+  subsets : ["latin"]
 })
 
 
