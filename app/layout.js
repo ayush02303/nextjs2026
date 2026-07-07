@@ -1,6 +1,12 @@
 import { Geist, Geist_Mono } from "next/font/google";
+import {Roboto} from "next/font/google"; 
 import "./globals.css";
 import Navigation from "./Navigation";
+
+Roboto({
+  
+})
+
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
