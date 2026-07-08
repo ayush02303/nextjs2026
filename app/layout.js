@@ -1,11 +1,16 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import {Roboto} from "next/font/google"; 
+import { Work_Sans } from "next/font/google";
 import "./globals.css";
 import Navigation from "./Navigation";
 
 const roboto = Roboto({
   subsets : ["latin"]
 })
+
+const workSans = Work_Sans({
+  subsets : ["latin"]
+ })
 
 
 const geistSans = Geist({
