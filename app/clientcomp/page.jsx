@@ -7,7 +7,7 @@ const client = () => {
   return (
     <div>
         <h1>Hii there</h1>
-        <button onClick={()=>{ console.log("i got clicked")}}>Click Me again! </button>
+        <button onClick={()=>{ console.log("i got clicked")}}>Click Me again! buddy </button>
       
     </div>
   )
