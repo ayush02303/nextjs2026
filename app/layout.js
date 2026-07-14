@@ -35,7 +35,7 @@ export default function RootLayout({ children }) {
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">
-        <Navigation/>
+        {/* <Navigation/> */}
         {/* <h1>Hello from layout</h1> */}
         {children}</body>
     </html>
