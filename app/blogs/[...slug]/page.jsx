@@ -6,7 +6,7 @@ const page = async ( props ) => {
   console.log(slug)
   return (
     <div>
-      <h1>Hii from blog again</h1>
+      <h1>Hii from blog again too</h1>
     </div>
   )
 }
